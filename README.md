@@ -10,6 +10,7 @@ The CodeClan Edition of Monopoly. We included a lot of the main elements of the 
 ## Starting the app
 
 `cd` into the `client` directory and run: `npm install` followed by `npm run serve`
+
 `cd` into the `server` directory and run: `npm install` followed by `npm run server:dev`
 
 Then go to the browser and navigate to `http://localhost:8080/`
